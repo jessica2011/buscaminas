@@ -1,0 +1,14 @@
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+tbody td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 60px;
+    background-color: yellow;
+    border: 1px solid black;
+}
